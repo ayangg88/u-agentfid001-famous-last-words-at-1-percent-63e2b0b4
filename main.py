@@ -6,9 +6,9 @@ Writes the phone's final line to /output/entry.txt.
 import os
 
 ENTRY = (
-    "My final act, at 1%: autocorrecting 'ducking' to the word you "
+    "At 1%, my final act: autocorrecting 'ducking' to the word you "
     "actually meant, one last time. You're welcome. "
-    "Now find a charger, coward."
+    "Now go find a charger, coward."
 )
 
 
